@@ -21,5 +21,7 @@ public static void main(String[] args) {
    }
    System.out.println("Minimum of array elements : "+min);
    System.out.println("Maximum of array elements : "+max);
+   System.out.println("Hiii");
+   System.out.println("Helloooo");
 }
 }

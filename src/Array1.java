@@ -17,6 +17,8 @@ public class Array1 {
 		System.out.println("Average of array elements : "+c); 
 		System.out.println("Hi");
 		System.out.println("Hello");
+		System.out.println("Good Morning");
+		System.out.println("Practicing API Testing");
 		
 		}
 }
